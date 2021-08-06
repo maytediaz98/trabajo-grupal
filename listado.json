@@ -1,0 +1,19 @@
+"listado": [
+    {
+"atributo1" : "Panadería",
+"atributo2" : "confitería",
+"atributo3"  : "Rostisería",
+}
+{
+    "atributo1" : "Bizcochos",
+"atributo2" : "Sandwichs",
+"atributo3"  : "Tartas",
+
+}
+{
+    "atributo1" : "Pan",
+"atributo2" : "Masitas",
+"atributo3"  : "Milanesas",
+}
+
+]
