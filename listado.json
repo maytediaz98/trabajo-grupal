@@ -5,9 +5,9 @@
 "servicio3"  : "Rostisería",
 }
 {
-    "producto" : "Bizcochos",
-"producto" : "Sandwichs",
-"prducto3"  : "Tartas",
+    "metodo1" : "efectivo",
+"metodo2" : "debito",
+"metodo3"  : "crédito",
 
 }
 {
