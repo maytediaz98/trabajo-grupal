@@ -1,19 +1,19 @@
 "listado": [
     {
-"atributo1" : "Panadería",
-"atributo2" : "confitería",
-"atributo3"  : "Rostisería",
+"servicio1" : "Panadería",
+"servicio2" : "confitería",
+"servicio3"  : "Rostisería",
 }
 {
-    "atributo1" : "Bizcochos",
-"atributo2" : "Sandwichs",
-"atributo3"  : "Tartas",
+    "producto" : "Bizcochos",
+"producto" : "Sandwichs",
+"prducto3"  : "Tartas",
 
 }
 {
-    "atributo1" : "Pan",
-"atributo2" : "Masitas",
-"atributo3"  : "Milanesas",
+    "articulo1" : "Pan",
+"articulo2" : "Masitas",
+"articulo3"  : "Milanesas",
 }
 
 ]
