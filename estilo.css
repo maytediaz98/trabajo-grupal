@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+body{
+    background-image: url(https://th.bing.com/th/id/R.c54ee3a6409d8fdd1745adc9f303c664?rik=Re4ECihIIZlhlA&pid=ImgRaw)  ;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 254, 254);
+
+}
+
+h2{
+    text-decoration-line: underline;
+}
+
+h1 span{
+    background-color: rgba(20, 4, 240, 0.699);
+}
+
+.clase1{
+    text-align: right;
+    color: white;
+}
+
+.clase2{
+    background-color: black;
+}
+
+h3, li {
+    color: white;
+}
+
+div#productos h3:hover{
+    color:green;
+}
+
+div#contacto h3:hover{
+    color:blue;
+}
+
+div#servicios h3:hover{
+    color:red;
+}
